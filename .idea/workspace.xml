@@ -4,38 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="280ee481-f10a-4a3a-9d61-c3964b329bf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThisIsJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec03/ReferenceVariableCompareExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec04/GarbageObjectExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec04/NullPointerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/CharAtExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/EmptyStringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/EqualsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/IndexOfContainsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/LengthExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/ReplaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/SplitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/SubStringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByNewExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByValueListExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByValueListExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayLengthExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec07/MultidimensionalArrayByNewExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec07/MultidimensionalArrayByValueListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec08/ArrayReferenceObjectExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec09/ArrayCopyByForExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec09/ArrayCopyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec10/AdvancedForExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec11/MainStringArrayArgument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec12/Week.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec12/WeekExample.java" afterDir="false" />
+    <list default="true" id="280ee481-f10a-4a3a-9d61-c3964b329bf1" name="Changes" comment="[12/27] ch05 참조 타입">
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec03/SportsCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec04/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec04/StudentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec06/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec06/exam01/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec06/exam02/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec06/exam02/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam01/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam02/Korean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam02/KoreanExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam04/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam04/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam05/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec07/exam05/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam01/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam01/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam02/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam02/ComputerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam03/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam03/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec08/exam04/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec09/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec09/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec10/exam01/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec10/exam01/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec10/exam02/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec10/exam02/TelevisionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec10/exam03/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec11/exam01/Korean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec11/exam01/KoreanExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec11/exam02/Earth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec11/exam02/EarthExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam01/package1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam01/package1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam01/package2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam02/package1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam02/package1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam02/package2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam03/package1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam03/package1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec13/exam03/package2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec14/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec14/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec15/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec15/SingletonExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +86,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WeekExample">
-    <configuration name="AdvancedForExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.sec10.AdvancedForExample" />
+  <component name="RunManager" selected="Application.SingletonExample">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch06.sec10.exam03.Car" />
       <module name="ThisIsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch05.sec10.*" />
+          <option name="PATTERN" value="ch06.sec10.exam03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayCopyByForExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.sec09.ArrayCopyByForExample" />
+    <configuration name="CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch06.sec14.CarExample" />
       <module name="ThisIsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch05.sec09.*" />
+          <option name="PATTERN" value="ch06.sec14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayCopyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.sec09.ArrayCopyExample" />
+    <configuration name="EarthExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch06.sec11.exam02.EarthExample" />
       <module name="ThisIsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch05.sec09.*" />
+          <option name="PATTERN" value="ch06.sec11.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainStringArrayArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.sec11.MainStringArrayArgument" />
+    <configuration name="KoreanExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch06.sec11.exam01.KoreanExample" />
       <module name="ThisIsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch05.sec11.*" />
+          <option name="PATTERN" value="ch06.sec11.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeekExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.sec12.WeekExample" />
+    <configuration name="SingletonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch06.sec15.SingletonExample" />
       <module name="ThisIsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch05.sec12.*" />
+          <option name="PATTERN" value="ch06.sec15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,19 +153,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.WeekExample" />
-      <item itemvalue="Application.AdvancedForExample" />
-      <item itemvalue="Application.ArrayCopyByForExample" />
-      <item itemvalue="Application.ArrayCopyExample" />
-      <item itemvalue="Application.MainStringArrayArgument" />
+      <item itemvalue="Application.Car" />
+      <item itemvalue="Application.CarExample" />
+      <item itemvalue="Application.EarthExample" />
+      <item itemvalue="Application.KoreanExample" />
+      <item itemvalue="Application.SingletonExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WeekExample" />
-        <item itemvalue="Application.MainStringArrayArgument" />
-        <item itemvalue="Application.AdvancedForExample" />
-        <item itemvalue="Application.ArrayCopyExample" />
-        <item itemvalue="Application.ArrayCopyByForExample" />
+        <item itemvalue="Application.SingletonExample" />
+        <item itemvalue="Application.CarExample" />
+        <item itemvalue="Application.EarthExample" />
+        <item itemvalue="Application.KoreanExample" />
+        <item itemvalue="Application.Car" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +178,19 @@
       <option name="presentableId" value="Default" />
       <updated>1671945697933</updated>
     </task>
+    <task id="LOCAL-00001" summary="[12/27] ch05 참조 타입">
+      <created>1672122013614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672122013614</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[12/27] ch05 참조 타입" />
+    <option name="LAST_COMMIT_MESSAGE" value="[12/27] ch05 참조 타입" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ThisIsJava$MainStringArrayArgument.ic" NAME="MainStringArrayArgument Coverage Results" MODIFIED="1672109930164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
