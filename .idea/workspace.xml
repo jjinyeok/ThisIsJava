@@ -4,35 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="280ee481-f10a-4a3a-9d61-c3964b329bf1" name="Changes" comment="[12/27] ch08 인터페이스">
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec02/exam01/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec02/exam01/AExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec02/exam02/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec02/exam02/AExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec03/exam01/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec03/exam01/AExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec03/exam02/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec03/exam02/AExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec04/exam01/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec04/exam02/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec04/exam02/AExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec04/exam03/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec04/exam03/AExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec05/exam01/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec05/exam02/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec05/exam02/AExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec06/exam01/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec06/exam02/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec06/exam03/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec06/exam03/ButtonExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec07/exam01/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec07/exam01/CarExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec07/exam01/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec07/exam02/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec07/exam02/HomeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec07/exam02/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec07/exam03/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch09/sec07/exam03/ButtonExample.java" afterDir="false" />
+    <list default="true" id="280ee481-f10a-4a3a-9d61-c3964b329bf1" name="Changes" comment="[12/31] ch09 중첩 선언과 익명 객체">
+      <change afterPath="$PROJECT_DIR$/src/ch11/sec02/exam01/ExceptionHandlingExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/sec02/exam01/ExceptionHandlingExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/sec02/exam02/ExceptionHandlingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/sec03/exam01/ExceptionHandlingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/sec03/exam02/ExceptionHandlingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/sec03/exam03/ExceptionHandlingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/sec04/MyResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/sec04/TryWithResourceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/sec05/ThrowsExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/sec05/ThrowsExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/sec06/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/sec06/AccountExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/sec06/InsufficientException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +29,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="package-info" />
         <option value="Interface" />
+        <option value="module-info" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -69,13 +55,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ch09.sec07.exam03.ButtonExample">
-    <configuration name="ButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09.sec06.exam03.ButtonExample" />
+  <component name="RunManager" selected="Application.AccountExample">
+    <configuration name="AccountExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch11.sec06.AccountExample" />
       <module name="ThisIsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch09.sec06.exam03.*" />
+          <option name="PATTERN" value="ch11.sec06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09.sec07.exam01.CarExample" />
+    <configuration name="ThrowsExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch11.sec05.ThrowsExample1" />
       <module name="ThisIsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch09.sec07.exam01.*" />
+          <option name="PATTERN" value="ch11.sec05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09.sec07.exam02.HomeExample" />
+    <configuration name="ThrowsExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch11.sec05.ThrowsExample2" />
       <module name="ThisIsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch09.sec07.exam02.*" />
+          <option name="PATTERN" value="ch11.sec05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch09.sec05.exam02.AExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09.sec05.exam02.AExample" />
+    <configuration name="TryWithResourceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch11.sec04.TryWithResourceExample" />
       <module name="ThisIsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch09.sec05.exam02.*" />
+          <option name="PATTERN" value="ch11.sec04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch09.sec07.exam03.ButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch09.sec07.exam03.ButtonExample" />
+    <configuration name="ch11.sec03.exam03.ExceptionHandlingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch11.sec03.exam03.ExceptionHandlingExample" />
       <module name="ThisIsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch09.sec07.exam03.*" />
+          <option name="PATTERN" value="ch11.sec03.exam03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,19 +122,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ButtonExample" />
-      <item itemvalue="Application.CarExample" />
-      <item itemvalue="Application.HomeExample" />
-      <item itemvalue="Application.ch09.sec05.exam02.AExample" />
-      <item itemvalue="Application.ch09.sec07.exam03.ButtonExample" />
+      <item itemvalue="Application.AccountExample" />
+      <item itemvalue="Application.ThrowsExample1" />
+      <item itemvalue="Application.ThrowsExample2" />
+      <item itemvalue="Application.TryWithResourceExample" />
+      <item itemvalue="Application.ch11.sec03.exam03.ExceptionHandlingExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ch09.sec07.exam03.ButtonExample" />
-        <item itemvalue="Application.HomeExample" />
-        <item itemvalue="Application.CarExample" />
-        <item itemvalue="Application.ButtonExample" />
-        <item itemvalue="Application.ch09.sec05.exam02.AExample" />
+        <item itemvalue="Application.AccountExample" />
+        <item itemvalue="Application.ThrowsExample2" />
+        <item itemvalue="Application.ThrowsExample1" />
+        <item itemvalue="Application.TryWithResourceExample" />
+        <item itemvalue="Application.ch11.sec03.exam03.ExceptionHandlingExample" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672478487632</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[12/31] ch09 중첩 선언과 익명 객체">
+      <created>1672497556258</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672497556258</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -197,7 +190,8 @@
     <MESSAGE value="[12/27] ch06 클래스" />
     <MESSAGE value="[12/27] ch07 상속" />
     <MESSAGE value="[12/27] ch08 인터페이스" />
-    <option name="LAST_COMMIT_MESSAGE" value="[12/27] ch08 인터페이스" />
+    <MESSAGE value="[12/31] ch09 중첩 선언과 익명 객체" />
+    <option name="LAST_COMMIT_MESSAGE" value="[12/31] ch09 중첩 선언과 익명 객체" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ThisIsJava$MainStringArrayArgument.ic" NAME="MainStringArrayArgument Coverage Results" MODIFIED="1672109930164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
